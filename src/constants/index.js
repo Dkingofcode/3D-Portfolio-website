@@ -116,7 +116,7 @@ export const experiences = [
         company_name: "Showlove.io",
         icon: starbucks,
         iconBg: "#accbe1",
-        date: "September 2022 - April 2023",
+        date: "September 2022 - November 2023",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
