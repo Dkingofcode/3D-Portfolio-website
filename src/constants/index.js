@@ -229,6 +229,6 @@ export const projects = [
         theme: 'btn-back-yellow',
         name: 'AI 3D Ecommerce Webiste',
         description: 'App that leverages AI to automatically generate 3D models of products & change their colors',
-        link: 'https://github.com/Dkingofcode/AISaasWebsite',
+        link: 'https://ai-saas-website-6snp.vercel.app/',
     }
 ];
